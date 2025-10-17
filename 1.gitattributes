@@ -1,0 +1,17 @@
+*.jsonl text eol=lf
+```
+4. **Commit 這個檔案**
+
+### 2. 重新上傳 JSONL 檔案到 repo 根目錄
+
+1. **點擊 "Add file" → "Upload files"**
+2. **上傳** `train_final_100percent.jsonl`
+3. **Commit**
+
+### 3. 給我 Raw URL
+
+上傳後，點擊檔案 → 點擊 "Raw" 按鈕 → 複製 URL
+
+應該會是：
+```
+https://raw.githubusercontent.com/jeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/d/main/train_final_100percent.jsonl
